@@ -11,6 +11,10 @@ Web storage is a web storage API that allows web applications to store data with
 
 This repository provides examples for both types of web storage, demonstrating how to use them to store and retrieve data within a web application.
 
+## Live Link
+
+https://kishandr.me/Web-Storage-Types/
+
 ## Session Storage Example
 
 The Session Storage Example creates a simple counter that increases each time a button is clicked. The count is stored in the session storage of the browser and persists within the same session.
